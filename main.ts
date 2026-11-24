@@ -14,7 +14,8 @@
 // congratulated; (4) it lands in one read: the pride arrives with the
 // last words, "just because he could"; (5) the image is fresh: signing
 // with an X, then writing the name twice, the second time for no reason
-// but his own.
+// but his own. The "slowly, then again" beat is the whole arc: the first
+// writing is the achievement, the second is him savouring it.
 //
 // Deterministic: the same bytes on every run. No network, no input.
 import { mkdirSync, writeFileSync } from "node:fs";
